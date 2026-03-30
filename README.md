@@ -9,11 +9,11 @@ Repo startowe do ćwiczeń z:
 
 ## Proponowany podział na grupy
 
-1. **Grupa 1** – nagłówek, hero, nawigacja
-2. **Grupa 2** – sekcja „O kierunku”
-3. **Grupa 3** – sekcja „Rekrutacja / przygotowanie do studiów”
-4. **Grupa 4** – sekcja „Narzędzia”
-5. **Grupa 5** – FAQ i stopka
+1. **Grupa 1** – 
+2. **Grupa 2** – 
+3. **Grupa 3** – 
+4. **Grupa 4** – 
+5. **Grupa 5** – 
 
 ## Zasady pracy
 
