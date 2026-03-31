@@ -5,7 +5,7 @@
 2. **Grupa 2** – Emilia Ch., Maciej P.
 3. **Grupa 3** – Łucja M., Sonia R.
 4. **Grupa 4** – Joanna P., Adrianna U.
-5. **Grupa 5** – 
+5. **Grupa 5** – Aleksandra S., Edyta M.
 
 ## Zasady pracy
 ### Każda grupa:
