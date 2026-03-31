@@ -60,8 +60,8 @@ Po zakończeniu ćwiczenia grupa przedstawia pozostałym swój proces decyzyjny 
 
 ## Prompty 
 ### Grupa 1
-- 
-- 
+- Chcę użyć tego obrazka jako favicon na stronie na githubie. Wygeneruj mi fragment kodu w html, który będę mogła przekleić do całości kodu i przekonwertuj do właściwego rozszerzenia
+- Zmodyfikuj kod tak, aby ścieżka była właściwa, czyli w główny folderze strony znajduje się folder assets, a w nim folder images, gdzie wrzuciliśmy plik favicon.png
 - 
 ### Grupa 2
 - 
