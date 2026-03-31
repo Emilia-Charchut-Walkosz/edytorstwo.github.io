@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz – przycisk</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap');
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'EB Garamond', Georgia, serif;
+      background: transparent;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      padding: 20px;
+    }
+
+    .widget {
+      text-align: center;
+      max-width: 520px;
+    }
+
+    .teaser {
+      font-size: 1.15rem;
+      color: #3a1a22;
+      font-style: italic;
+      margin-bottom: 20px;
+      line-height: 1.7;
+      letter-spacing: 0.01em;
+    }
+
+    .teaser strong {
+      font-style: normal;
+      font-weight: 600;
+      color: #7b1023;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      background: #7b1023;
+      color: #f7f0e6;
+      font-family: 'EB Garamond', Georgia, serif;
+      font-size: 1.05rem;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      padding: 14px 32px;
+      border: none;
+      border-radius: 50px;
+      cursor: pointer;
+      text-decoration: none;
+      box-shadow: 0 6px 20px rgba(123, 16, 35, 0.35);
+      transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
+    }
+
+    .btn:hover {
+      background: #5e0c1a;
+      transform: translateY(-2px);
+      box-shadow: 0 10px 28px rgba(123, 16, 35, 0.45);
+    }
+
+    .btn:active {
+      transform: translateY(0);
+    }
+
+    .btn svg {
+      width: 18px;
+      height: 18px;
+      fill: #d4b15a;
+      flex-shrink: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="widget">
+    <p class="teaser">
+      Sprawdź, czy Twój wzrok wyłapuje błędy, zanim zrobi to <strong>redaktor prowadzący</strong>.
+    </p>
+    <a
+      class="btn"
+      href="WSTAW_TUTAJ_LINK_DO_QUIZU"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm1 14.93V15a1 1 0 0 0-2 0v1.93A8 8 0 0 1 4.07 11H6a1 1 0 0 0 0-2H4.07A8 8 0 0 1 11 4.07V6a1 1 0 0 0 2 0V4.07A8 8 0 0 1 19.93 11H18a1 1 0 0 0 0 2h1.93A8 8 0 0 1 13 16.93z"/>
+      </svg>
+      Rozwiąż quiz
+    </a>
+  </div>
+</body>
+</html>
